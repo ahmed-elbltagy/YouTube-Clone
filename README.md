@@ -1,2 +1,2 @@
-# Youtueb-clone
-## ## <p><a href="https://ahmed-elbltagy.github.io/Youtueb-clone/">Live Preview</a></p>
+# YouTube-Clone
+## <p><a href="https://ahmed-elbltagy.github.io/YouTube-Clone/">Live Preview</a></p>
