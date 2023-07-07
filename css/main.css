@@ -5,7 +5,7 @@
 body{
   height: 100%;
   box-sizing: border-box;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial;
 } 
 .page{
   overflow: auto;
@@ -155,7 +155,6 @@ aside{
   height:100vh;
   width:280px; 
   background-color: #fff;
-  overflow-y:scroll;
 }
 aside nav{
 padding-right:10px;
